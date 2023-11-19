@@ -20,5 +20,6 @@ In the folder "Code", it is possible to find the following bandit algorithms: th
 - In the file MABs_Exp_Generations.py it is possible to find the functions allowing to run the simulations for each bandit algorithm.
 - In the file MABs_Comparisons.py it is possible to find the code to compare the performances of the bandit algorithms.
 - In the files MABs_MPs_Classes_Functions.py and MABs_MPs_Exp_Generations.py it is possible to find the code of the same bandit algorithms and simulations in the context of multiple players, in which they can exchange information in different ways.
-The most important results for the single agent case are in the Simulation_Results notebook, while in MABs_Multiple_Players.py and MABs_MPs_Info.py it is possible to find the simulations for the multi-agents case.
+  
+The most important results for the single agent case are in the Simulation_Results.ipynb notebook, while in MABs_Multiple_Players.ipynb and MABs_MPs_Info.ipynb it is possible to find the simulations for the multi-agents case.
 
